@@ -1,4 +1,4 @@
-define('ParallaxGallery', ['jquery', 'iscroll'], function ($, IScroll) {
+define('ParallaxGallery', ['jquery', 'iscroll-probe'], function ($, IScroll) {
   'use strict';
 
   var ParallaxGallery = function (options) {
